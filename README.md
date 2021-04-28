@@ -1,7 +1,7 @@
 # sudoku
-language used: Python
+language used: Python 3.7.6
 
-version used: visual studio code 1.54.2
+ done with visual studio code
 
 consist of two files:
 GUI.py
